@@ -1,0 +1,6 @@
+{
+    "git.ignoreLimitWarning": true,
+    "python.pythonPath": "C:\\Users\\royab\\Anaconda3\\envs\\tensorflow_cpu\\python.exe",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": false
+}
